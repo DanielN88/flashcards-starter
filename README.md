@@ -4,9 +4,9 @@ The goal of this project is to test some of your programming knowledge with some
 
 ## Contributors
 
- ###Daniel Neer
+ ### Daniel Neer
 
- ###Project Manager - Heather Faerber
+ ### Project Manager - Heather Faerber
 
 ## Setup
 
